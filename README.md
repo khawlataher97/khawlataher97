@@ -1,7 +1,7 @@
-[![MasterHead]([https://thumbs.dreamstime.com/z/embedded-system-icon-d-illustration-digitalization-collection-creative-web-design-templates-infographics-more-259331704.jpg](https://static1.shine.com/l/m/images/blog/Embedded_System_Intro_Types_Applications_Architecture_and_Examples.jpg))]
+[![MasterHead](https://amavys.ro/wp-content/uploads/2015/07/embedded-systems-logo.png)]
 <h1 align="center">Hi 👋, I'm Khawla Taher 🤝</h1>
 <h3 align="center">Embedded Electronics Engineer</h3>
-<img align="right" alt="Coding" width="400" src="[https://giphy.com/gifs/monstercat-edm-electronic-music-xT8qBsOjMOcdeGJIU8/fullscreen](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS81M2cwZzGqYkuzZgSmPrvoClzTIyBp6APlQ&usqp=CAU)">
+<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS81M2cwZzGqYkuzZgSmPrvoClzTIyBp6APlQ&usqp=CAU">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
