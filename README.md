@@ -1,7 +1,8 @@
 <h1 align="center"> ❤️ Welcome ❤️ </h1>
 <h1 align="center">Hey 👋, I'm Khawla Taher 🤝</h1>
 <h3 align="center">Embedded Electronics Engineer</h3>
-<img align="center" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS81M2cwZzGqYkuzZgSmPrvoClzTIyBp6APlQ&usqp=CAU">
+<p align="center"> <img 
+     src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS81M2cwZzGqYkuzZgSmPrvoClzTIyBp6APlQ&usqp=CAU" alt="Coding" width="400"/> 
 
 
 
@@ -18,7 +19,10 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/and
 href="https://www.python.org" target="_blank" rel="noreferrer"> <img 
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a 
 href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img 
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a 
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a
+href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img 
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a
+href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a 
 </h3> 
 
 <h3 align="left">2. Operating system :</h3>
