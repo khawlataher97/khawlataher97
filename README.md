@@ -13,7 +13,7 @@ Embedded Electronics Engineer , My main interest is in Embedded Systems ,Embedde
 </h3>
 
 <h3 align="left">Technical Skills:</h3>
-<h3 align="left">1. Programing Language :</h3>
+<h3 align="left">1. Programing Language :
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img 
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a
 href="https://www.python.org" target="_blank" rel="noreferrer"> <img 
