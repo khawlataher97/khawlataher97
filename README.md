@@ -26,23 +26,31 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/c
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img 
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+<a </h3> 
+
+<h3 align="left">2. Programing Tools : 
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img 
+src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="Visual_Studio_Code" width="40" height="40"/> </a>
+<a href="https://www.codeblocks.org/downloads/" target="_blank" rel="noreferrer"> <img 
+src="https://jetsonhacks.com/wp-content/uploads/2016/01/codeblocks2.png" alt="codeblocks" width="40" height="40"/> </a>
 <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img 
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
 <a </h3> 
-
-<h3 align="left">2. Operating system :
+     
+      
+<h3 align="left">3. Operating system :
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img 
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
 <a href="https://www.microsoft.com/fr-fr/windows" target="_blank" rel="noreferrer"> <img
 src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Windows_logo_-_2012.svg" alt="windows" width="40" height="40"/> </a> 
 <a </h3> 
 
-<h3 align="left">3. Embedded Systems :
+<h3 align="left">4. Embedded Systems :
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img 
 src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
 <a href="https://www.raspberrypi.com/products/raspberry-pi-4-model-b/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-icon.svg" alt="raspberrypi" width="40" height="40"/> </a> 
 <a href="https://www.st.com/en/development-tools/stm32cubemx.html" target="_blank" rel="noreferrer"> <img 
-src="https://www.st.com/en/development-tools/stm32cubeide.html" alt="stm32cubeide" width="40" height="40"/> </a> 
+src="https://www.st.com/bin/ecommerce/api/image.PF267946.en.feature-description-include-personalized-no-cpn-large.jpg" alt="stm32cubemx" width="40" height="40"/> </a> 
 <a </h3> 
      
 <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img 
