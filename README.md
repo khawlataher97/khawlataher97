@@ -59,21 +59,38 @@ src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" widt
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img 
 src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 <a </h3> 
-  
+ 
+     
 <h3 align="left"> 6.  Embedded Protocols  : 
 I2C,SPI,UART 
 </h3>
 
 
-
-     
+<h3 align="left"> 7.  Simulation and programming software  :   
 <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img 
 src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img 
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+<a href="https://www.ni.com/en-lb/support/downloads/software-products/download.labview.html#460283" target="_blank" rel="noreferrer"> <img 
+src="https://www.freelogovectors.net/wp-content/uploads/2020/11/labview-logo.png" alt="labview" width="40" height="40"/> </a>
+</h3>
      
 
+<h3 align="left"> 8.  Wireless communication  : 
+LoRa,GSM,WiFi,Bluetooth,ZigBee,NRF
+</h3>
 
+
+<h3 align="left"> 9.  PCB design and simulation software  :   
+<a href="https://www.labcenter.com/" target="_blank" rel="noreferrer"> <img 
+src="https://3.bp.blogspot.com/-efb697NFEE0/WQCyr8tb4mI/AAAAAAAAB6M/p86QcQ0LU4YmPXsFBX0GRFVOJdd55sPUQCLcB/s1600/labcenter-electronics-logo.jpg" alt="Proteus" width="40" height="40"/> </a>
+<a href="https://www.autodesk.fr/products/eagle/free-download" target="_blank" rel="noreferrer"> <img 
+src="https://taiwebs.com/images/full/30-9-2018/autodesk-eagle-premium100-100.jpg" alt="labview" width="40" height="40"/> </a>
+</h3>
+
+
+<h3 align="left"> 10.  Other  :   
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img 
+src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+</h3>
 
 
 
