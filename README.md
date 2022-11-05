@@ -68,16 +68,18 @@ src="https://3.bp.blogspot.com/-efb697NFEE0/WQCyr8tb4mI/AAAAAAAAB6M/p86QcQ0LU4Ym
 src="https://taiwebs.com/images/full/30-9-2018/autodesk-eagle-premium100-100.jpg" alt="labview" width="40" height="40"/> </a>
 </h3>
 
-
-<h3 align="left"> 7.  Other  :   
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img 
-src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> </h3>
-<h3 align="left">  Wireless communication  : 
+ 
+<h3 align="left"> 7.  Wireless communication  : 
 LoRa,GSM,WiFi,Bluetooth,ZigBee,NRF
 </h3>
-<h3 align="left">  Embedded Protocols  : 
+<h3 align="left"> 8.  Embedded Protocols  : 
 I2C,SPI,UART 
 </h3>
+
+<h3 align="left"> 9.  Other  :   
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img 
+src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> </h3>
+
  
      
 <h3 align="left"> Operating system :</h3>
