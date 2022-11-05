@@ -1,9 +1,12 @@
 <h1 align="center"> ❤️ Welcome ❤️ </h1>
 <h1 align="center">Hey 👋, I'm Khawla Taher 🤝</h1>
 
+
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/khawla-taher/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/khawla-taher/" height="30" width="30" /></a>
-</p>
+    <a href="https://linkedin.com/in/https://www.linkedin.com/in/khawla-taher/ "><img src="https://img.shields.io/badge/LinkedIn-%230177B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" title="LinkedIn"/></a>
+    <a href="mailto:taherkhawla1997@gmail.com"><img img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white" alt="GMAIL" title="GMAIL"/></a>
+  </p>
+
 
 <h3 align="center">Embedded Electronics Engineer</h3>
 <p align="center"> <img 
